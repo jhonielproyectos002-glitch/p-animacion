@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:0,1295026 [LAT] 100 metros (2025)
 tvg-logo="https://image.tmdb.org/t/p/w185/dkBRX077Px0l766Ydbf25VVB9GG.jpg"
 https://filemoon.sx/e/ipdmbe1fp27u
@@ -87,6 +89,11 @@ https://corterlink.pages.dev/2?id=a7dzlxbop0f0
 tvg-logo="https://image.tmdb.org/t/p/w185/yqc9x6KNIAUO26TFYEguSALXzDG.jpg"
 https://filemoon.sx/e/iqaujqct4m5d
 https://corterlink.pages.dev/2?id=iqaujqct4m5d
+
+#EXTINF:0,1205229 [LAT] Zoopocalipsis (2025)
+tvg-logo="https://image.tmdb.org/t/p/w185/49s9HB9bXMjHkdw0asNs7m1rO5E.jpg"
+https://filemoon.sx/e/30a6s3ua60e1
+https://corterlink.pages.dev/2?id=30a6s3ua60e1
 
 #EXTINF:0,927254 [LAT] Los Cretinos (2025)
 tvg-logo="https://image.tmdb.org/t/p/w185/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg"
